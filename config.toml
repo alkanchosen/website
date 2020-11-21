@@ -488,3 +488,16 @@ languagedirection = "ltr"
 time_format_blog = "02.01.2006"
 # A list of language codes to look for untranslated content, ordered from left to right.
 language_alternatives = ["en"]
+
+[languages.tr]
+title = "Kubernetes"
+description = "...." ToDo
+languageName = "Türkçe"
+weight = 15
+contentDir = "content/tr"
+languagedirection = "ltr"
+
+[languages.tr.params]
+time_format_blog = "02.01.2006"
+# A list of language codes to look for untranslated content, ordered from left to right.
+language_alternatives = ["en"]
